@@ -11,6 +11,11 @@
 # production
 /build
 
+#github
+/public
+/logo.svg
+
+
 # misc
 .DS_Store
 .env.local
