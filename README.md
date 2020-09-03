@@ -12,4 +12,4 @@
 
 ### 3) reusableInputField.jsx (reusable-joi-validation-for-forms/src/form-components/reusableInputField.jsx)
 
-> This is a simple reusable form component, using bootstrap. This form component has props which are needed for essential form functionality. (Note that in case we hase a prop "error" populated, this form will show the corresponding alert error message under the form itself)
+> This is a simple reusable form component, using bootstrap. This form component has props which are needed for essential form functionality. (Note that in case we have the prop "error" populated, this form will show the corresponding alert error message under the form itself)
