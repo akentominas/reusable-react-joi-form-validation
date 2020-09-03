@@ -1,6 +1,6 @@
 # reusable-react-joi-form-validation
 
-##How to use it:
+## How to use it:
 
-###1) 1
-###2) 2
+### 1) 1
+### 2) 2
