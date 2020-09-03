@@ -20,10 +20,12 @@
 
 `You need to have:`
 
-- the 'login' component should `extend` the `formValidation` in order to adopt its reusable methods
-- `data` + `errors` states 
-- a `schema` which will be passed to the Joi library for the validation of each field that we might need
+- The `login` component should `extend` the `formValidation` in order to adopt its reusable methods
+- `data` + `errors` states.
 
-https://joi.dev/api/
+The `data` state, contains an object of properties, which represents each of the input fields that we have on our form. (username, password, email etc...)
+
+
+- A `schema` which will be passed to the Joi library for the validation of each of the input field that we might need in our form. (more about Joi validation methods here: https://joi.dev/api/)
 
 - pass the corresponding states to each of the forms
