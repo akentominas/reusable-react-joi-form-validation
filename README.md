@@ -25,7 +25,9 @@
 
 The `data` state, contains an object of properties, which represents each of the input fields that we have on our form. (username, password, email etc...)
 
+The `errors` state will be updated in case of Joi validation fails on some of the fields we have.
 
-- A `schema` which will be passed to the Joi library for the validation of each of the input field that we might need in our form. (more about Joi validation methods here: https://joi.dev/api/)
 
-- pass the corresponding states to each of the forms
+- A `schema` which will be passed to the Joi library for the validation of each of the input field that we might need in our form (more about Joi validation methods here: https://joi.dev/api/). Joi methods are chained with each other.
+
+- Pass the corresponding states to each of the forms
