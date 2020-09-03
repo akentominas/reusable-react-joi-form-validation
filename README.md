@@ -1,6 +1,4 @@
-# reusable-react-joi-form-validation
-
-## How to use it:
+# How to use it:
 
 ### 1) Install Joi library & Bootstrap (Optional)
 ---
