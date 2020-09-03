@@ -20,7 +20,7 @@
 
 `You need to have:`
 
-- The `login` component should `extend` the `formValidation` in order to adopt its reusable methods
+- The `login` component should `extend` the `formValidation` in order to adopt its reusable functions
 - `data` + `errors` states.
 
 The `data` state, contains an object of properties, which represents each of the input fields that we have on our form. (username, password, email etc...)
