@@ -2,5 +2,8 @@
 
 ## How to use it:
 
-### 1) 1
-### 2) 2
+### 1) Install Joi library & Bootstrap (Optional)
+> $npm i joi-browser
+> $npm i bootstrap
+
+### 2) 
