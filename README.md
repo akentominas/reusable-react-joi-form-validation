@@ -18,5 +18,12 @@
 ---
 > This is the only component that modifications needs to be done.
 
-You need to have:
-- 
+`You need to have:`
+
+- the 'login' component should `extend` the `formValidation` in order to adopt its reusable methods
+- `data` + `errors` states 
+- a `schema` which will be passed to the Joi library for the validation of each field that we might need
+
+https://joi.dev/api/
+
+- pass the corresponding states to each of the forms
