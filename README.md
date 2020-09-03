@@ -18,4 +18,5 @@
 ---
 > This is the only component that modifications needs to be done.
 
-> haha
+You need to have:
+- 
