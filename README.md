@@ -30,4 +30,4 @@ The `errors` state will be updated in case of Joi validation fails on some of th
 
 - A `schema` which will be passed to the Joi library for the validation of each of the input field that we might need in our form (more about Joi validation methods here: https://joi.dev/api/). Joi methods are chained with each other.
 
-- Pass the corresponding states to each of the forms
+- Pass the corresponding states to each of our reusable input field component (InputField).
